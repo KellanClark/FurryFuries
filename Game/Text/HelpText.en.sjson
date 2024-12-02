@@ -1,0 +1,24 @@
+{
+    Texts = [
+        "_search", [
+            { Id = "Cosmetic_NorthHallPaintingFury" }
+            { DisplayName = "Painting, Furry Sisters" }
+            { Id = "Harpy" }
+            { DisplayName = "Megaera, the Furry" }
+            { Id = "Harpy2_Full" }
+            { DisplayName = "Alecto, the Furry" }
+            { Id = "Harpy3_Full" }
+            { DisplayName = "Tisiphone, the Furry" }
+            { Id = "HarpyDefeatedMessage" }
+            { DisplayName = "FURRY VANQUISHED" }
+            { Id = "Ghost_AboutMeg01" }
+            { DisplayName = "I heard he and the Furry, they're an item!" }
+            { Id = "MusicMusicPlayerMusicTartarus4MusicPlayer" }
+            { DisplayName = "Scourge of the Furries" }
+            { Id = "NPC_FurySister_01" }
+            { Description = "First of the Furries" }
+            { Id = "HarpiesDefeatedMessage" }
+            { DisplayName = "FURRIES VANQUISHED" }
+        ]
+    ]
+}

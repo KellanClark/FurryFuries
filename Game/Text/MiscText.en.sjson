@@ -1,0 +1,12 @@
+{
+    Texts = [
+        "_search", [
+            { Id = "RichPresence_ABoss01" }
+            { DisplayName = "Battling Megaera, the Furry" }
+            { Id = "RichPresence_ABoss02" }
+            { DisplayName = "Battling Alecto, the Furry" }
+            { Id = "RichPresence_ABoss03" }
+            { DisplayName = "Battling Tisiphone, the Furry" }
+        ]
+    ]
+}
