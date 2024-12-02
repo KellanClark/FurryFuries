@@ -1,0 +1,1 @@
+if not FurryFuries.Config.Enabled then return end

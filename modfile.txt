@@ -1,0 +1,11 @@
+Top Import "config.lua"
+Import "main.lua"
+
+To "Game/Text/en/HelpText.en.sjson"
+SJSON "Game/Text/HelpText.en.sjson"
+
+To "Game/Text/en/CodexText.en.sjson"
+SJSON "Game/Text/CodexText.en.sjson"
+
+To "Game/Text/en/MiscText.en.sjson"
+SJSON "Game/Text/MiscText.en.sjson"
